@@ -72,6 +72,7 @@ body {
 .main__hint {
     color: #00000080;
     font-size: 20px;
+    text-align: center;
 }
 
 .main__button {
@@ -186,4 +187,5 @@ body {
     .modal__text{
         font-size: clamp(1.375rem, 1.2708rem + 0.4762vw, 1.5rem);
     }
+
 }
